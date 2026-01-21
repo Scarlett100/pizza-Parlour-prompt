@@ -1,11 +1,11 @@
-# pizza-Parlour-prompt
+# Pizza-Parlour-prompt
 
-Today we will be looking at AI and prompts. We will be utilising AI to create a website for a food business. Below is an example of a prompt which is  the instruction or request you give to an AI so it knows what you want it to create or do. To test it you can copy and paste it into an ai site of your choice - either chat gpt or Copilot. It will give you a link to follow. 
+Today we will be looking at AI and prompts. We will be utilising AI to create a website for a food business. Below is an example of a prompt which is  the instruction or request you give to an AI so it knows what you want it to create or do. To test it you can copy and paste it into an ai site called lovable. Once you are done it will give you the option to view the site if you cliew on *preview*.
 
 ## Copy and paste the prompt  below into Copilot now
 
-you do not need to make an account
-[Copilot](https://copilot.microsoft.com/)
+make a free account here. 
+[Lovable](https://lovable.dev/)
 
 ## After copying and pasting the prompt, getting the url and looking at the website.
 Next, you will decide what kind of restaurant website you want to build - however, it cannot be a pizza restaurant. Once you have decided, edit the prompt below - change the drinks, food, the prices, ask for different colours, bigger or smaller font, etc and paste the new prompt into chat gpt. The first version will not be perfect so just keep making slight channges, always asking it to give you a link that you can put into the browser.
@@ -57,3 +57,6 @@ The website should have these pages:
 - After submitting, show a message saying “Thank you for your order!”
 
 When the website is ready, show me a preview and then publish it.
+
+
+# end of prompt
